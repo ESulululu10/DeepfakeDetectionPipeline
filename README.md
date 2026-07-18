@@ -7,3 +7,4 @@ Found k=20 features optimal for AdaBoost, reaching 87.20% mean AUC. Delivered as
 ## Contents
 
 * `deepfake_pipeline.ipynb`, full forensic pipeline: feature extraction, feature selection, model training, and evaluation across multiple GAN sources
+* `feature_analysis.ipynb`, feature level analysis supporting the k=20 AdaBoost result
